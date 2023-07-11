@@ -1,7 +1,7 @@
 export const programs = [
     {
         libelle : "Increment",
-        name : "Increment",
+        name : "increment",
         code : {
             q0: {
                 0: {
@@ -74,8 +74,6 @@ export const programs = [
                   moveTo: 1,
                 }
               },
-
-              
               end:{}
         }
        
@@ -84,4 +82,4 @@ export const programs = [
 ]
 
 
-;
+
